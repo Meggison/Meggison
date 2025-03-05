@@ -41,14 +41,8 @@ I am actively working on:
 - **Natural Language Processing**: Creating innovative applications in text analysis and generation
 - **Machine Learning Research**: Exploring new approaches in AI optimization and efficiency
 
-## 🎓 Education & Recognition
-
-- **MSc Artificial Intelligence and Machine Learning** - University of Birmingham, UK
-  - Recipient of MSc Ramsay Bursary Award
-  - Focus on Neural Computation, Computer Vision, and NLP
-
-- **BSc Computer Science** - Covenant University, Nigeria
-  - Final Year Project: Handwriting Recognition System Using Transformer Architecture
+## My GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meggison&show_icons=true&theme=dark)  
 
 ## 📫 Let's Connect!
 
@@ -60,8 +54,3 @@ I'm always excited to collaborate on innovative AI projects and explore new oppo
 ---
 *Thank you for visiting my profile. Looking forward to connecting and innovating together in the exciting world of AI and machine learning!*
 
-## My GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meggison&show_icons=true&theme=dark)  
-
-## Contribution Activity  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Meggison&theme=github-dark)  
