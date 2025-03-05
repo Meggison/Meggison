@@ -1,50 +1,50 @@
-# Hi there! 👋 I'm Oritsemisan Meggison
+👋 Welcome to My GitHub Profile
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=MSc+AI+%26+ML+Student;Machine+Learning+Engineer;Data+Science+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-</div>
+I'm a Machine Learning Engineer and MSc AI & ML student at the University of Birmingham, passionate about leveraging artificial intelligence to solve real-world challenges. With a background in Computer Science and hands-on experience in ML projects, I'm dedicated to pushing the boundaries of what's possible with AI.
 
-## 🎓 About Me
+## 🚀 Featured Projects
 
-I'm a Machine Learning Engineer and MSc student at the University of Birmingham, passionate about leveraging AI to solve real-world problems. Currently focusing on Neural Computation, Computer Vision, and Natural Language Processing.
+### [Microgrid Optimization for Rural Myanmar](https://github.com/Meggison/microgrid-optimization)
+An innovative solution leveraging ML to optimize microgrid operations in rural areas, enhancing energy efficiency and reducing costs.
+- **Advanced Optimization**: Developed algorithms achieving 25% boost in energy efficiency and 18% cost reduction through intelligent load balancing and resource allocation
+- **Data-Driven Decision Making**: Created comprehensive data preprocessing pipelines for real-time energy consumption analysis
+- **Scalable Architecture**: Implemented distributed computing solutions for handling multiple microgrid configurations simultaneously
+- **Tech Stack**: Python, TensorFlow, Azure Cloud Services, Power BI
 
-- 🌱 I'm learning advanced concepts in **Neural Computation** and **Computer Vision**
-- 👯 I'm looking to collaborate on **AI/ML Projects** and **Research**
-- 💬 Ask me about **Machine Learning**, **Data Science**, and **AI Applications**
+### [Deforestation Monitoring System (Congo Basin)](https://github.com/Meggison/deforestation-monitoring)
+A cutting-edge monitoring system using ML and satellite imagery to detect and predict deforestation patterns.
+- **ML Classification**: Built models achieving 80%+ accuracy in identifying deforestation risks across three categories
+- **Geospatial Analysis**: Integrated QGIS and Google Earth Engine for comprehensive satellite data processing
+- **Interactive Dashboard**: Developed user-friendly interface for region selection and risk assessment visualization
+- **Tech Stack**: Python, Google Earth Engine, QGIS, Azure ML
 
-## 🚀 Recent Projects
+### [Political Sentiment Analysis Tool (El Salvador)](https://github.com/Meggison/sentiment-analysis)
+An advanced NLP system for analyzing public sentiment towards political figures using social media data.
+- **Data Pipeline**: Processed 20,000+ social media posts using custom NLP models
+- **Real-time Analysis**: Created streaming data processing system for live sentiment tracking
+- **Visualization**: Built interactive dashboards for temporal and demographic analysis
+- **Tech Stack**: Python, Twitter API, Power BI, Natural Language Processing
 
-### 🔋 Microgrid Optimization (Myanmar)
-- Developed optimization algorithms achieving 25% boost in energy efficiency
-- Built ML models for optimal microgrid configurations
-- Tech: Python, TensorFlow, Excel
+## 💡 Skills & Expertise
 
-### 🌳 Deforestation Monitoring (Congo Basin)
-- Created ML models with 80%+ accuracy for deforestation risk assessment
-- Implemented region-based analysis system
-- Tech: Python, Azure, QGIS, Google Earth Engine
+- **Programming**: Python, Java, SQL, Web Development (HTML, CSS, JavaScript)
+- **Machine Learning & AI**: TensorFlow, PyTorch, OpenCV, Pandas, NumPy, Seaborn, Matplotlib
+- **Cloud & Tools**: Microsoft Azure, Power BI, QGIS, Git & GitHub
+- **Data Analysis**: Statistical Analysis, Data Visualization, Predictive Modeling
+- **Certifications**: Microsoft Certified Azure Data Scientist, Azure Fundamentals
 
-### 📊 Political Sentiment Analysis (El Salvador)
-- Developed sentiment analysis pipeline for social media data
-- Processed 20,000+ posts for public opinion analysis
-- Tech: Python, Twitter API, Power BI
+## 🌟 Current Focus
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+I am actively working on:
+- **Neural Computation**: Advancing my understanding of neural network architectures and their applications
+- **Computer Vision**: Developing solutions for image recognition and processing
+- **Natural Language Processing**: Creating innovative applications in text analysis and generation
+- **Machine Learning Research**: Exploring new approaches in AI optimization and efficiency
 
 ## 📈 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Meggison&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meggison&theme=radical" alt="GitHub Streak" />
 </div>
 
@@ -52,24 +52,12 @@ I'm a Machine Learning Engineer and MSc student at the University of Birmingham,
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meggison&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## 🎯 Achievements
-- MSc Ramsay Bursary Award Recipient
-- Microsoft Certified Azure Data Scientist
-- Microsoft Certified Azure Fundamentals
-- Explore AI Data Science Academy Certificate
-
 ## 📫 Let's Connect!
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oritsemisan-meggison-1b117420b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.datascienceportfol.io/meggisonoritsemisan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meggisonoritsemisan@gmail.com)
-
-</div>
+I'm always excited to collaborate on innovative AI projects and explore new opportunities.
+- Email: [meggisonoritsemisan@gmail.com](mailto:meggisonoritsemisan@gmail.com)
+- LinkedIn: [Oritsemisan Meggison](https://www.linkedin.com/in/oritsemisan-meggison-1b117420b/)
+- Portfolio: [Data Science Portfolio](https://www.datascienceportfol.io/meggisonoritsemisan)
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Meggison&color=blueviolet&style=flat-square" alt="Profile views" />
-</div>
+*Thank you for visiting my profile. Looking forward to connecting and innovating together in the exciting world of AI and machine learning!*
