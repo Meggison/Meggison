@@ -4,21 +4,21 @@ I'm a Machine Learning Engineer and MSc AI & ML student at the University of Bir
 
 ## 🚀 Featured Projects
 
-### [Microgrid Optimization for Rural Myanmar](https://github.com/Meggison/microgrid-optimization)
+### [Microgrid Optimization for Rural Myanmar](https://dagshub.com/Omdena/MyanmarChapter_MicroGridOptimization)
 An innovative solution leveraging ML to optimize microgrid operations in rural areas, enhancing energy efficiency and reducing costs.
 - **Advanced Optimization**: Developed algorithms achieving 25% boost in energy efficiency and 18% cost reduction through intelligent load balancing and resource allocation
 - **Data-Driven Decision Making**: Created comprehensive data preprocessing pipelines for real-time energy consumption analysis
 - **Scalable Architecture**: Implemented distributed computing solutions for handling multiple microgrid configurations simultaneously
 - **Tech Stack**: Python, TensorFlow, Azure Cloud Services, Power BI
 
-### [Deforestation Monitoring System (Congo Basin)](https://github.com/Meggison/deforestation-monitoring)
+### [Deforestation Monitoring System (Congo Basin)](https://dagshub.com/Omdena/ProjectCanopy2)
 A cutting-edge monitoring system using ML and satellite imagery to detect and predict deforestation patterns.
 - **ML Classification**: Built models achieving 80%+ accuracy in identifying deforestation risks across three categories
 - **Geospatial Analysis**: Integrated QGIS and Google Earth Engine for comprehensive satellite data processing
 - **Interactive Dashboard**: Developed user-friendly interface for region selection and risk assessment visualization
 - **Tech Stack**: Python, Google Earth Engine, QGIS, Azure ML
 
-### [Political Sentiment Analysis Tool (El Salvador)](https://github.com/Meggison/sentiment-analysis)
+### [Political Sentiment Analysis Tool (El Salvador)](https://dagshub.com/Omdena/IREX-El-Salvador-Sentiment)
 An advanced NLP system for analyzing public sentiment towards political figures using social media data.
 - **Data Pipeline**: Processed 20,000+ social media posts using custom NLP models
 - **Real-time Analysis**: Created streaming data processing system for live sentiment tracking
