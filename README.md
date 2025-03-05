@@ -8,7 +8,6 @@
 
 I'm a Machine Learning Engineer and MSc student at the University of Birmingham, passionate about leveraging AI to solve real-world problems. Currently focusing on Neural Computation, Computer Vision, and Natural Language Processing.
 
-- 🔭 I'm currently working on **Microgrid Optimization** and **Deforestation Monitoring** projects
 - 🌱 I'm learning advanced concepts in **Neural Computation** and **Computer Vision**
 - 👯 I'm looking to collaborate on **AI/ML Projects** and **Research**
 - 💬 Ask me about **Machine Learning**, **Data Science**, and **AI Applications**
@@ -46,7 +45,6 @@ I'm a Machine Learning Engineer and MSc student at the University of Birmingham,
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meggison&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meggison&theme=radical" alt="GitHub Streak" />
 </div>
 
