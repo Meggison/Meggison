@@ -48,26 +48,7 @@ I am actively working on:
   - Focus on Neural Computation, Computer Vision, and NLP
 
 - **BSc Computer Science** - Covenant University, Nigeria
-  - Grade: 4.35/5.00 (Upper Second Class)
   - Final Year Project: Handwriting Recognition System Using Transformer Architecture
-
-## 📈 GitHub Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Meggison/Meggison/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Meggison/Meggison/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Meggison/Meggison/output/github-contribution-grid-snake.svg">
-</picture>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meggison&theme=react-dark&hide_border=true&area=true" width="100%">
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meggison&theme=github_dark" width="100%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Meggison&theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Meggison&theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Meggison&theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Meggison&theme=github_dark">
-</div>
 
 ## 📫 Let's Connect!
 
