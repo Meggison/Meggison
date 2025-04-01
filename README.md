@@ -44,7 +44,7 @@ I am actively working on:
 ## My GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meggison&show_icons=true&theme=dark)  
 
-## 📫 Let's Connect!
+## 📫 Let's Connect!!
 
 I'm always excited to collaborate on innovative AI projects and explore new opportunities.
 - Email: [meggisonoritsemisan@gmail.com](mailto:meggisonoritsemisan@gmail.com)
