@@ -52,5 +52,4 @@ I'm always excited to collaborate on innovative AI projects and explore new oppo
 - Portfolio: [Data Science Portfolio](https://www.datascienceportfol.io/meggisonoritsemisan)
 
 ---
-*Thank you for visiting my profile. Looking forward to connecting and innovating together in the exciting world of AI and machine learning!*
 
