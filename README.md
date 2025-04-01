@@ -51,5 +51,3 @@ I'm always excited to collaborate on innovative AI projects and explore new oppo
 - LinkedIn: [Oritsemisan Meggison](https://www.linkedin.com/in/oritsemisan-meggison-1b117420b/)
 - Portfolio: [Data Science Portfolio](https://www.datascienceportfol.io/meggisonoritsemisan)
 
----
-
