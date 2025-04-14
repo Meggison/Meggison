@@ -1,6 +1,6 @@
 👋 Hello, I'm Misan!
 
-I'm a Machine Learning Engineer and MSc AI & ML student at the University of Birmingham, passionate about leveraging artificial intelligence to solve real-world challenges. With a background in Computer Science and hands-on experience in ML projects, I'm dedicated to pushing the boundaries of what's possible with AI.
+I'm an MSc AI & ML student at the University of Birmingham, passionate about leveraging artificial intelligence to solve real-world challenges. With a background in Computer Science and hands-on experience in ML projects, I'm dedicated to pushing the boundaries of what's possible with AI.
 
 ### 🚀 Featured Projects
 
