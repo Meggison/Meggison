@@ -2,7 +2,7 @@
 
 I'm an MSc AI & ML student at the University of Birmingham, passionate about leveraging artificial intelligence to solve real-world challenges. With a background in Computer Science and hands-on experience in ML projects, I'm dedicated to pushing the boundaries of what's possible with AI.
 
-### 🚀 Featured Projects
+### 🚀 Featured Project
 
 ### [Microgrid Optimization for Rural Myanmar](https://dagshub.com/Omdena/MyanmarChapter_MicroGridOptimization)
 An innovative solution leveraging ML to optimize microgrid operations in rural areas, enhancing energy efficiency and reducing costs.
