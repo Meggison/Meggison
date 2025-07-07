@@ -13,7 +13,7 @@ An innovative solution leveraging ML to optimize microgrid operations in rural a
 
 ### [Deforestation Monitoring System (Congo Basin)](https://dagshub.com/Omdena/ProjectCanopy2)
 A cutting-edge monitoring system using ML and satellite imagery to detect and predict deforestation patterns.
-- **ML Classification**: Built models achieving 80%+ accuracy in identifying deforestation risks across three categories
+- **ML Classification**: Built models achieving 80%+ accuracy in identifying deforestation risks across three categorie
 - **Geospatial Analysis**: Integrated QGIS and Google Earth Engine for comprehensive satellite data processing
 - **Interactive Dashboard**: Developed user-friendly interface for region selection and risk assessment visualization
 - **Tech Stack**: Python, Google Earth Engine, QGIS, Azure ML
