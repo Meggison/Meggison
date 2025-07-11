@@ -33,13 +33,6 @@ An advanced NLP system for analyzing public sentiment towards political figures 
 - **Data Analysis**: Statistical Analysis, Data Visualization, Predictive Modeling
 - **Certifications**: Microsoft Certified Azure Data Scientist, Azure Fundamentals, Azure AI Fundamentals
 
-## 🌟 Current Focus
-
-I am actively working on:
-- **Neural Computation**: Advancing my understanding of neural network architectures and their applications
-- **Computer Vision**: Developing solutions for image recognition and processing
-- **Natural Language Processing**: Creating innovative applications in text analysis and generation
-- **Machine Learning Research**: Exploring new approaches in AI optimization and efficiency
 
 - Portfolio: [Data Science Portfolio](https://www.datascienceportfol.io/meggisonoritsemisan)
 
