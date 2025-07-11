@@ -41,13 +41,5 @@ I am actively working on:
 - **Natural Language Processing**: Creating innovative applications in text analysis and generation
 - **Machine Learning Research**: Exploring new approaches in AI optimization and efficiency
 
-## My GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meggison&show_icons=true&theme=dark)  
-
-## 📫 Let's Connect!!
-
-I'm always excited to collaborate on innovative AI projects and explore new opportunities.
-- Email: [meggisonoritsemisan@gmail.com](mailto:meggisonoritsemisan@gmail.com)
-- LinkedIn: [Oritsemisan Meggison](https://www.linkedin.com/in/oritsemisan-meggison-1b117420b/)
 - Portfolio: [Data Science Portfolio](https://www.datascienceportfol.io/meggisonoritsemisan)
 
