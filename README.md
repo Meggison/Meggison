@@ -4,12 +4,12 @@ I'm an MSc AI & ML student at the University of Birmingham, passionate about lev
 
 ### 🚀 Featured Projects
 
-### [Microgrid Optimization for Rural Myanmar](https://dagshub.com/Omdena/MyanmarChapter_MicroGridOptimization)
+### [Microgrid Optimization for Rural Myanmar](https://github.com/Meggison/MyanmarChapter_MicroGridOptimization)
 An innovative solution leveraging ML to optimize microgrid operations in rural areas, enhancing energy efficiency and reducing costs.
 - **Advanced Optimization**: Developed algorithms achieving 25% boost in energy efficiency and 18% cost reduction through intelligent load balancing and resource allocation
 - **Data-Driven Decision Making**: Created comprehensive data preprocessing pipelines for real-time energy consumption analysis
 - **Scalable Architecture**: Implemented distributed computing solutions for handling multiple microgrid configurations simultaneously
-- **Tech Stack**: Python, TensorFlow, Azure Cloud Services, Power BI, Pytorch
+- **Tech Stack**: Python, TensorFlow, Power BI, Pytorch, Pandas
 
 ### [Deforestation Monitoring System (Congo Basin)](https://dagshub.com/Omdena/ProjectCanopy2)
 A cutting-edge monitoring system using ML and satellite imagery to detect and predict deforestation patterns.
@@ -23,7 +23,7 @@ An advanced NLP system for analyzing public sentiment towards political figures 
 - **Data Pipeline**: Processed 20,000+ social media posts using custom NLP models
 - **Real-time Analysis**: Created streaming data processing system for live sentiment tracking
 - **Visualization**: Built interactive dashboards for temporal and demographic analysis
-- **Tech Stack**: Python, Twitter API, Power BI, Natural Language Processing
+- **Tech Stack**: Python, Twitter API, Power BI, Natural Language Processing, SKLearn
 
 ## 💡 Skills & Expertise
 
