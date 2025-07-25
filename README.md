@@ -32,7 +32,3 @@ An advanced NLP system for analyzing public sentiment towards political figures 
 - **Cloud & Tools**: Microsoft Azure, Power BI, QGIS, Git & GitHub
 - **Data Analysis**: Statistical Analysis, Data Visualization, Predictive Modeling
 - **Certifications**: Microsoft Certified Azure Data Scientist, Azure Fundamentals, Azure AI Fundamentals
-
-
-- Portfolio: [Data Science Portfolio](https://www.datascienceportfol.io/meggisonoritsemisan)
-
