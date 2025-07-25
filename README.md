@@ -27,7 +27,7 @@ An advanced NLP system for analyzing public sentiment towards political figures 
 
 ## 💡 Skills & Expertise
 
-- **Programming**: Python, Java, SQL, Web Development (HTML, CSS, JavaScript)
+- **Programming**: Python, SQL, Web Development (HTML, CSS, JavaScript)
 - **Machine Learning & AI**: TensorFlow, PyTorch, OpenCV, Pandas, NumPy, Seaborn, Matplotlib
 - **Cloud & Tools**: Microsoft Azure, Power BI, QGIS, Git & GitHub
 - **Data Analysis**: Statistical Analysis, Data Visualization, Predictive Modeling
