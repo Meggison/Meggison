@@ -20,7 +20,7 @@ A cutting-edge monitoring system using ML and satellite imagery to detect and pr
 - **Tech Stack**: Python, Google Earth Engine, QGIS, Azure ML
 
 ### [Political Sentiment Analysis Tool (El Salvador)](https://irex-el-salvador-sentiment-tool.streamlit.app)
-##### [DagsHub Repository](https://dagshub.com/Omdena/IREX-El-Salvador-Sentiment)
+##### [Repository](https://dagshub.com/Omdena/IREX-El-Salvador-Sentiment)
 An advanced NLP system for analyzing public sentiment towards political figures using social media data.
 - **Data Pipeline**: Processed 20,000+ social media posts using custom NLP models
 - **Real-time Analysis**: Created streaming data processing system for live sentiment tracking
