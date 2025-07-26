@@ -4,7 +4,8 @@ I'm an MSc AI & ML student at the University of Birmingham, passionate about lev
 
 ### 🚀 Featured Projects
 
-### [Microgrid Optimization for Rural Myanmar](https://github.com/Meggison/MyanmarChapter_MicroGridOptimization)
+### [Political Sentiment Analysis Tool (El Salvador)](https://docs.google.com/presentation/d/1u9rSUtEeA90xJCaB_umNL5N7kbVMHI4jOOT6TcNDSfo/edit?slide=id.g308825f900f_0_99#slide=id.g308825f900f_0_99)
+##### [Repository](https://github.com/Meggison/MyanmarChapter_MicroGridOptimization)
 An innovative solution leveraging ML to optimize microgrid operations in rural areas, enhancing energy efficiency and reducing costs.
 - **Advanced Optimization**: Developed algorithms achieving 25% boost in energy efficiency and 18% cost reduction through intelligent load balancing and resource allocation
 - **Data-Driven Decision Making**: Created comprehensive data preprocessing pipelines for real-time energy consumption analysis
