@@ -2,7 +2,7 @@
 
 I'm an MSc AI & ML student at the University of Birmingham, passionate about leveraging artificial intelligence to solve real-world challenges. With a background in Computer Science and hands-on experience in ML projects, I love exploring what's possible with AI.
 
-### 🚀 Featured Projects
+### Featured Projects
 
 ### [MicroGridOptimization Tool (Myanmar)](https://docs.google.com/presentation/d/1u9rSUtEeA90xJCaB_umNL5N7kbVMHI4jOOT6TcNDSfo/edit?slide=id.g308825f900f_0_99#slide=id.g308825f900f_0_99)
 ##### [Repository](https://github.com/Meggison/MyanmarChapter_MicroGridOptimization)
@@ -27,7 +27,7 @@ An advanced NLP system for analyzing public sentiment towards political figures 
 - **Visualization**: Built interactive dashboards for temporal and demographic analysis
 - **Tech Stack**: Python, Twitter API, Power BI, Natural Language Processing, SKLearn
 
-## 💡 Skills & Expertise
+## Skills & Expertise
 
 - **Programming**: Python, SQL, Web Development (HTML, CSS, JavaScript)
 - **Machine Learning & AI**: TensorFlow, PyTorch, OpenCV, Pandas, NumPy, Seaborn, Matplotlib
