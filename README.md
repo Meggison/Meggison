@@ -33,4 +33,3 @@ An advanced NLP system for analyzing public sentiment towards political figures 
 - **Machine Learning & AI**: TensorFlow, PyTorch, OpenCV, Pandas, NumPy, Seaborn, Matplotlib
 - **Cloud & Tools**: Microsoft Azure, Power BI, QGIS, Git & GitHub
 - **Data Analysis**: Statistical Analysis, Data Visualization, Predictive Modeling
-- **Certifications**: Microsoft Certified Azure Data Scientist, Azure Fundamentals, Azure AI Fundamentals
