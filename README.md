@@ -10,7 +10,7 @@ An innovative solution leveraging ML to optimize microgrid operations in rural a
 - **Advanced Optimization**: Developed algorithms achieving 25% boost in energy efficiency and 18% cost reduction through intelligent load balancing and resource allocation
 - **Data-Driven Decision Making**: Created comprehensive data preprocessing pipelines for real-time energy consumption analysis
 - **Scalable Architecture**: Implemented distributed computing solutions for handling multiple microgrid configurations simultaneously
-- **Tech Stack**: Python, TensorFlow, Power BI, Pytorch, Pandas
+- **Tech Stack**: Python, TensorFlow, Pytorch, Pandas
 
 ### [Deforestation Monitoring System (Congo Basin)](https://dagshub.com/Omdena/ProjectCanopy2)
 A cutting-edge monitoring system using ML and satellite imagery to detect and predict deforestation patterns.
