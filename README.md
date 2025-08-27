@@ -2,7 +2,7 @@
 
 I'm an MSc AI & ML student at the University of Birmingham, passionate about leveraging artificial intelligence to solve real-world challenges. With a background in Computer Science and hands-on experience in ML projects, I love exploring what's possible with AI.
 
-### Featured Projects
+### DagsHub Projects
 
 ### [Deforestation Monitoring System (Congo Basin)](https://dagshub.com/Omdena/ProjectCanopy2)
 A cutting-edge monitoring system using ML and satellite imagery to detect and predict deforestation patterns.
