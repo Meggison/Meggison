@@ -2,6 +2,13 @@
 
 I'm an MSc AI & ML student at the University of Birmingham, passionate about leveraging artificial intelligence to solve real-world challenges. With a background in Computer Science and hands-on experience in ML projects, I love exploring what's possible with AI.
 
+## Skills & Expertise
+
+- **Programming**: Python, SQL, Web Development (HTML, CSS, JavaScript)
+- **Machine Learning & AI**: TensorFlow, PyTorch, OpenCV, Pandas, NumPy, Seaborn, Matplotlib
+- **Cloud & Tools**: Microsoft Azure, Power BI, QGIS
+- **Data Analysis**: Statistical Analysis, Data Visualization, Predictive Modeling
+  
 ### DagsHub Projects
 
 ### [Deforestation Monitoring System (Congo Basin)](https://dagshub.com/Omdena/ProjectCanopy2)
@@ -18,10 +25,3 @@ An advanced NLP system for analyzing public sentiment towards political figures 
 - **Real-time Analysis**: Created streaming data processing system for live sentiment tracking
 - **Visualization**: Built interactive dashboards for temporal and demographic analysis
 - **Tech Stack**: Python, Twitter API, Power BI, Natural Language Processing
-
-## Skills & Expertise
-
-- **Programming**: Python, SQL, Web Development (HTML, CSS, JavaScript)
-- **Machine Learning & AI**: TensorFlow, PyTorch, OpenCV, Pandas, NumPy, Seaborn, Matplotlib
-- **Cloud & Tools**: Microsoft Azure, Power BI, QGIS
-- **Data Analysis**: Statistical Analysis, Data Visualization, Predictive Modeling
