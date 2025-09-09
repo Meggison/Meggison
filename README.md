@@ -8,7 +8,9 @@ I'm an MSc AI & ML student at the University of Birmingham, passionate about lev
 - **Machine Learning & AI**: TensorFlow, PyTorch, OpenCV, Pandas, NumPy, Seaborn, Matplotlib
 - **Cloud & Tools**: Microsoft Azure, Power BI, QGIS
 - **Data Analysis**: Statistical Analysis, Data Visualization, Predictive Modeling
-  
+
+[![Misan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meggison)](https://github.com/Meggison/github-readme-stats)
+
 ### DagsHub Projects
 
 ### [Deforestation Monitoring System (Congo Basin)](https://dagshub.com/Omdena/ProjectCanopy2)
