@@ -25,8 +25,3 @@ An advanced NLP system for analyzing public sentiment towards political figures 
 - **Real-time Analysis**: Created streaming data processing system for live sentiment tracking
 - **Visualization**: Built interactive dashboards for temporal and demographic analysis
 - **Tech Stack**: Python, Twitter API, Power BI, Natural Language Processing
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Meggison&style=flat-square&color=blue" alt="Profile views counter"/>
-</div>
