@@ -1,4 +1,4 @@
-👋 Hello, I'm Misan!
+Hello, I'm Misan!
 
 I'm an MSc AI & ML student at the University of Birmingham passionate about Machine Learning, Maths & AI. Currently working on Statistical Bounds for Learning Theory
 
