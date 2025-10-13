@@ -1,6 +1,6 @@
 Hello, I'm Misan!
 
-I'm an MSc AI & ML student at the University of Birmingham passionate about ML, Maths & Computer Vision. Currently working on Statistical Bounds for Learning Theory
+I'm an MSc AI & ML student at the University of Birmingham passionate about ML, Maths & Computer Vision. Currently working on Statistical & ML Bounds for Learning Theory
 
 ## Skills & Expertise
 
