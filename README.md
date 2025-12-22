@@ -17,7 +17,7 @@ Monitoring system using ML and satellite imagery to detect and predict deforesta
 
 ---
 
-### [Political Sentiment Analysis Tool inEl Salvador (IREX)](https://irex-el-salvador-sentiment-tool.streamlit.app)  
+### [Political Sentiment Analysis Tool in El Salvador (IREX)](https://irex-el-salvador-sentiment-tool.streamlit.app)  
 *Natural Language Processing • Real-time Data • Visualization*  
 NLP system for analyzing public sentiment towards political figures via social media.  
 [Repository](https://dagshub.com/Omdena/IREX-El-Salvador-Sentiment)  
