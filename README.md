@@ -4,6 +4,6 @@ I'm an MSc AI & ML graduate from the University of Birmingham passionate about A
 
 ## Skills & Tools
 
-- **Programming**: Python, C++, Go, SQL, Web Development (HTML, CSS, JavaScript), Flask
+- **Programming**: Python, C++, Go, SQL, Web Development (Flask, HTML, CSS, JavaScript)
 - **Machine Learning & AI**: TensorFlow, PyTorch, OpenCV, Pandas, NumPy, Seaborn, Matplotlib
 - **Cloud & Tools**: Microsoft Azure, Power BI, QGIS
