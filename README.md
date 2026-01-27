@@ -1,4 +1,4 @@
-Hello, I'm Misan!
+Hi, I'm Misan
 
 I'm an MSc AI & ML graduate from the University of Birmingham passionate about AI, Maths & Computer Vision.
 
