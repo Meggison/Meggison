@@ -1,6 +1,6 @@
 Hi, I'm Oritsemisan
 
-I'm an MSc AI & ML Student from the University of Birmingham passionate about AI, Maths & Computer Vision.
+I'm an MSc AI & Machine Learning Student from the University of Birmingham passionate about AI, Maths & Computer Vision.
 
 ## Skills & Tools
 
