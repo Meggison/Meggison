@@ -1,4 +1,4 @@
-Hi, I'm Oritsemisan, a Machine Learning Engineer passionate about AI, Maths & Computer Vision.
+Hi, I'm Oritsemisan, a Machine Learning Engineer passionate about AI
 
 ## Skills & Tools
 
